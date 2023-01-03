@@ -1,2 +1,7 @@
 * {
 }
+
+theme-container {
+    background: blue;
+    height: 100vh;
+}
